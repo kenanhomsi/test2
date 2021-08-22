@@ -50,6 +50,11 @@ h2{
 p {
   font-size: 1rem;
 }
+.collapse
+{
+  text-align: center;
+
+}
 
 #title-1 {
   text-align: center;
